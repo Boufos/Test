@@ -1,0 +1,49 @@
+using System;
+
+
+namespace LB_OOP1
+{
+
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.Write("Enter the length of the array: ");
+
+            int lengthArray = Int32.Parse(Console.ReadLine());
+            double[] array = new double[lengthArray];
+
+
+            for (int i=0;i<array.Length;i++)
+            {
+                Console.Write("Enter array element: ");
+                array[i] = Int32.Parse(Console.ReadLine());
+            }
+
+            SumCube.sumCube(array);
+
+            Console.WriteLine("Cubic sum array:");
+
+                foreach(var element in array)
+            {
+                Console.Write(element+" ");
+            }
+        }
+
+        class SumCube
+        {
+            public static double[] sumCube (double[] array)
+            {
+                array[0] = Math.Pow(array[0], 3);
+                for (int i=1; i<array.Length;i++)
+                {
+                    array[i] = Math.Pow(array[i],3) + array[i-1];
+                }
+                return array;
+            }
+        }
+    }
+    
+    
+}
