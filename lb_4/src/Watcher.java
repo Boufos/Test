@@ -1,4 +1,4 @@
-public class Watcher extends Enemy
+public class Watcher extends Enemy 
 {
 	public Watcher(String name, int health){
 		super (name, health);

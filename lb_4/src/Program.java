@@ -1,3 +1,4 @@
+import java.util.Vector;
 
 public class Program {
 
@@ -15,5 +16,15 @@ public class Program {
 			watcher.GetInfo();
 			Ñompanion companion = new Ñompanion("Fredi",100);
 			companion.GetInfo();
+			
+			Vector<ISpeak> speak = new Vector<ISpeak>();
+			speak.add((ISpeak) terraEnemy);
+			speak.add((ISpeak) trader);
+			speak.add((ISpeak) inhabitant);
+			
+			for (int i =0; i<speak.size();i++)
+			{
+				speak.get(i).Speak();
+			}
 	   }
 }

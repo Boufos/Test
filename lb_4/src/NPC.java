@@ -8,9 +8,6 @@ public class NPC extends Character
 		super (name, health);
 	}
 	
-	protected String Speak(String activityNPC)
-	{
-		return activityNPC=="Inhabitant" ? "Hi. Do you want to speak?" : "Hi. Do you want to trade?";
-	}
+	
 
 }
