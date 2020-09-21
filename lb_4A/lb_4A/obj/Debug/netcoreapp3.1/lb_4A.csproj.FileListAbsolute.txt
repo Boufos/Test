@@ -1,0 +1,13 @@
+C:\Users\Leneri\source\repos\lb_4A\lb_4A\bin\Debug\netcoreapp3.1\lb_4A.exe
+C:\Users\Leneri\source\repos\lb_4A\lb_4A\bin\Debug\netcoreapp3.1\lb_4A.deps.json
+C:\Users\Leneri\source\repos\lb_4A\lb_4A\bin\Debug\netcoreapp3.1\lb_4A.runtimeconfig.json
+C:\Users\Leneri\source\repos\lb_4A\lb_4A\bin\Debug\netcoreapp3.1\lb_4A.runtimeconfig.dev.json
+C:\Users\Leneri\source\repos\lb_4A\lb_4A\bin\Debug\netcoreapp3.1\lb_4A.dll
+C:\Users\Leneri\source\repos\lb_4A\lb_4A\bin\Debug\netcoreapp3.1\lb_4A.pdb
+C:\Users\Leneri\source\repos\lb_4A\lb_4A\obj\Debug\netcoreapp3.1\lb_4A.csprojAssemblyReference.cache
+C:\Users\Leneri\source\repos\lb_4A\lb_4A\obj\Debug\netcoreapp3.1\lb_4A.AssemblyInfoInputs.cache
+C:\Users\Leneri\source\repos\lb_4A\lb_4A\obj\Debug\netcoreapp3.1\lb_4A.AssemblyInfo.cs
+C:\Users\Leneri\source\repos\lb_4A\lb_4A\obj\Debug\netcoreapp3.1\lb_4A.csproj.CoreCompileInputs.cache
+C:\Users\Leneri\source\repos\lb_4A\lb_4A\obj\Debug\netcoreapp3.1\lb_4A.dll
+C:\Users\Leneri\source\repos\lb_4A\lb_4A\obj\Debug\netcoreapp3.1\lb_4A.pdb
+C:\Users\Leneri\source\repos\lb_4A\lb_4A\obj\Debug\netcoreapp3.1\lb_4A.genruntimeconfig.cache

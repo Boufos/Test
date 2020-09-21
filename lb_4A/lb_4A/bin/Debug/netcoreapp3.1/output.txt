@@ -1,0 +1,3 @@
+The maximum element among all multiples of 5: 50
+Minimum element among all multiples of 3: 54
+The sum of the elements that are divisible by 10: 50
