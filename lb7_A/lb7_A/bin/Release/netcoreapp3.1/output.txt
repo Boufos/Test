@@ -1,0 +1,28 @@
+Truncated cone volume: 21,979999999999997
+Truncated cone area: 53,38
+
+*****Segment*****
+
+-----------------
+
+*****************
+Top base radius: 1
+Bottom base radius: 2
+Truncated cone height: 3
+Truncated cone generatrix: 4
+
+-----FINISH-----
+Truncated cone volume: 159,09333333333333
+Truncated cone area: 414,48
+
+*****Segment*****
+
+-----------------
+
+*****************
+Top base radius: 0
+Bottom base radius: 0
+Truncated cone height: 0
+Truncated cone generatrix: 0
+
+-----FINISH-----
