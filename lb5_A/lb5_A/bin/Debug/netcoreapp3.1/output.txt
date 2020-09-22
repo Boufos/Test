@@ -1,0 +1,15 @@
+***input matrix***
+30 44 94 10 
+94 28 55 48 
+19 86 44 76 
+50 99 18 26 
+***Average***
+44 
+56 
+68 
+31 
+***Modifed matrix***
+ q  z  z  q 
+ z  q  q  q 
+ q  z  q  z 
+ z  z  q  q 
