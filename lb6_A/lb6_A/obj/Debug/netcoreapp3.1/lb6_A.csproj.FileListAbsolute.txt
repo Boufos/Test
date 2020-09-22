@@ -1,0 +1,13 @@
+C:\Users\Leneri\source\repos\lb6_A\lb6_A\bin\Debug\netcoreapp3.1\lb6_A.exe
+C:\Users\Leneri\source\repos\lb6_A\lb6_A\bin\Debug\netcoreapp3.1\lb6_A.deps.json
+C:\Users\Leneri\source\repos\lb6_A\lb6_A\bin\Debug\netcoreapp3.1\lb6_A.runtimeconfig.json
+C:\Users\Leneri\source\repos\lb6_A\lb6_A\bin\Debug\netcoreapp3.1\lb6_A.runtimeconfig.dev.json
+C:\Users\Leneri\source\repos\lb6_A\lb6_A\bin\Debug\netcoreapp3.1\lb6_A.dll
+C:\Users\Leneri\source\repos\lb6_A\lb6_A\bin\Debug\netcoreapp3.1\lb6_A.pdb
+C:\Users\Leneri\source\repos\lb6_A\lb6_A\obj\Debug\netcoreapp3.1\lb6_A.csprojAssemblyReference.cache
+C:\Users\Leneri\source\repos\lb6_A\lb6_A\obj\Debug\netcoreapp3.1\lb6_A.AssemblyInfoInputs.cache
+C:\Users\Leneri\source\repos\lb6_A\lb6_A\obj\Debug\netcoreapp3.1\lb6_A.AssemblyInfo.cs
+C:\Users\Leneri\source\repos\lb6_A\lb6_A\obj\Debug\netcoreapp3.1\lb6_A.csproj.CoreCompileInputs.cache
+C:\Users\Leneri\source\repos\lb6_A\lb6_A\obj\Debug\netcoreapp3.1\lb6_A.dll
+C:\Users\Leneri\source\repos\lb6_A\lb6_A\obj\Debug\netcoreapp3.1\lb6_A.pdb
+C:\Users\Leneri\source\repos\lb6_A\lb6_A\obj\Debug\netcoreapp3.1\lb6_A.genruntimeconfig.cache

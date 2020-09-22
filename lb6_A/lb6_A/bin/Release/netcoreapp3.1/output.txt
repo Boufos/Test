@@ -1,0 +1,13 @@
+
+Length sement = 1,4142135623730951
+
+Distance to start of leg: (1,2)
+Distance to end of line: 4,6
+
+*****Segment*****
+
+-----------------
+
+*****************
+Start of segment: 1,2
+End of segment: 3,4
