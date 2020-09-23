@@ -1,0 +1,13 @@
+C:\Users\Leneri\source\repos\lb8_A\lb8_A\obj\Debug\netcoreapp3.1\lb8_A.csprojAssemblyReference.cache
+C:\Users\Leneri\source\repos\lb8_A\lb8_A\obj\Debug\netcoreapp3.1\lb8_A.AssemblyInfoInputs.cache
+C:\Users\Leneri\source\repos\lb8_A\lb8_A\obj\Debug\netcoreapp3.1\lb8_A.AssemblyInfo.cs
+C:\Users\Leneri\source\repos\lb8_A\lb8_A\obj\Debug\netcoreapp3.1\lb8_A.csproj.CoreCompileInputs.cache
+C:\Users\Leneri\source\repos\lb8_A\lb8_A\bin\Debug\netcoreapp3.1\lb8_A.exe
+C:\Users\Leneri\source\repos\lb8_A\lb8_A\bin\Debug\netcoreapp3.1\lb8_A.deps.json
+C:\Users\Leneri\source\repos\lb8_A\lb8_A\bin\Debug\netcoreapp3.1\lb8_A.runtimeconfig.json
+C:\Users\Leneri\source\repos\lb8_A\lb8_A\bin\Debug\netcoreapp3.1\lb8_A.runtimeconfig.dev.json
+C:\Users\Leneri\source\repos\lb8_A\lb8_A\bin\Debug\netcoreapp3.1\lb8_A.dll
+C:\Users\Leneri\source\repos\lb8_A\lb8_A\bin\Debug\netcoreapp3.1\lb8_A.pdb
+C:\Users\Leneri\source\repos\lb8_A\lb8_A\obj\Debug\netcoreapp3.1\lb8_A.dll
+C:\Users\Leneri\source\repos\lb8_A\lb8_A\obj\Debug\netcoreapp3.1\lb8_A.pdb
+C:\Users\Leneri\source\repos\lb8_A\lb8_A\obj\Debug\netcoreapp3.1\lb8_A.genruntimeconfig.cache
