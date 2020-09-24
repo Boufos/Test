@@ -1,0 +1,24 @@
+********************************TASK 1********************************
+			Employee with minimum wage
+
+**********************************************************************
+	ID: 18-1386476, Name: , Firstname: Camélia;
+
+	Email: Not specified, Salary: 1060,63, Skiils: True, Tax: 498,58
+**********************************************************************
+
+********************************TASK 2********************************
+		The number of people without skill
+
+Find 60 persons
+
+********************************TASK 3********************************
+	Average salary of employees with and without e-mail
+
+Average salary for employees with e-mail: 5417,7104
+Average salary for employees without e-mail: 5346,631
+
+********************************TASK 4********************************
+			Total tax amount
+
+Total tax amount: 262056,16

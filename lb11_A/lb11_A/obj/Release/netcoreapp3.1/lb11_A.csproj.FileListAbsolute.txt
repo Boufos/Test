@@ -1,0 +1,12 @@
+C:\Users\Leneri\source\repos\lb11_A\lb11_A\bin\Release\netcoreapp3.1\lb11_A.exe
+C:\Users\Leneri\source\repos\lb11_A\lb11_A\bin\Release\netcoreapp3.1\lb11_A.deps.json
+C:\Users\Leneri\source\repos\lb11_A\lb11_A\bin\Release\netcoreapp3.1\lb11_A.runtimeconfig.json
+C:\Users\Leneri\source\repos\lb11_A\lb11_A\bin\Release\netcoreapp3.1\lb11_A.runtimeconfig.dev.json
+C:\Users\Leneri\source\repos\lb11_A\lb11_A\bin\Release\netcoreapp3.1\lb11_A.dll
+C:\Users\Leneri\source\repos\lb11_A\lb11_A\bin\Release\netcoreapp3.1\lb11_A.pdb
+C:\Users\Leneri\source\repos\lb11_A\lb11_A\obj\Release\netcoreapp3.1\lb11_A.AssemblyInfoInputs.cache
+C:\Users\Leneri\source\repos\lb11_A\lb11_A\obj\Release\netcoreapp3.1\lb11_A.AssemblyInfo.cs
+C:\Users\Leneri\source\repos\lb11_A\lb11_A\obj\Release\netcoreapp3.1\lb11_A.csproj.CoreCompileInputs.cache
+C:\Users\Leneri\source\repos\lb11_A\lb11_A\obj\Release\netcoreapp3.1\lb11_A.dll
+C:\Users\Leneri\source\repos\lb11_A\lb11_A\obj\Release\netcoreapp3.1\lb11_A.pdb
+C:\Users\Leneri\source\repos\lb11_A\lb11_A\obj\Release\netcoreapp3.1\lb11_A.genruntimeconfig.cache
